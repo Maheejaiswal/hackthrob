@@ -6,7 +6,7 @@ $("#open").click(function(){
 	if(!aparted)
 	{
 		var typed = new Typed('.letter', {
-			strings: ["^1000Dear&nbsp;&nbsp;Senorita", "Dear Rose ,^200 <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thank you for bringing so much ^300love, joy^200and adventure ^600into my life.^600 I love you so much baby! ^200I'm so^600 glad you're ^200mine！<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wishing^300 the sweetest, ^600happiest day to ^300my^600 forever^300 Valentine！<br><br><p style='float:right; display:block; width:110px;'>^1000~From George</p>"],
+			strings: ["^1000Dear&nbsp;&nbsp;Senorita", "Dear Rose ,^200 <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thank you for bringing so much ^300love, joy^200and adventure ^600into my life.^600 I love you so much! ^200I'm so^600 glad you're ^200mine！<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wishing^300 the sweetest, ^600happiest day to ^300my^600 forever^300 Valentine！<br><br><p style='float:right; display:block; width:110px;'>^1000~From Jack</p>"],
 			typeSpeed: 100,
 			backSpeed: 50
 		});
